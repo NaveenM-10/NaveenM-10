@@ -43,6 +43,5 @@ Here are some of the projects I've worked on:
 
 ## 🌟 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenmanavalan10&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenmanavalan10&layout=compact&theme=radical)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenM-10&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenM-10&layout=compact&theme=radical)
