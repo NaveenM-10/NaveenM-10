@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 - **Solution:** Minimized volatility using Python, SQL, Power BI, and Looker Studio
 - **Outcome:** Reduced volatility by 90%, saving $1M
 
-### [Project 2: Optimization Of Kit Item Distribution]
+### [Project 2: Optimization Of Kit Item Distribution](https://github.com/NaveenM-10/optimization-kit-item-distribution)
 - **Client:** Leading automotive manufacturer
 - **Business Problem:** Difficulty in sourcing and providing unique kit items efficiently
 - **Solution:** Cleaned and analyzed data using Python, SQL, Power BI, and Tableau
