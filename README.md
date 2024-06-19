@@ -23,7 +23,7 @@ I'm a passionate Data Analyst with a robust set of skills in data analysis, visu
 
 Here are some of the projects I've worked on:
 
-### [Project 1: Optimization of Supply Chain Management]
+### [Project 1: Optimization of Supply Chain Management](https://github.com/NaveenM-10/optimization-supply-chain-management)
 - **Client:** Leading pallet manufacturer
 - **Business Problem:** Volatile inventory leading to understocking or overstocking
 - **Solution:** Minimized volatility using Python, SQL, Power BI, and Looker Studio
