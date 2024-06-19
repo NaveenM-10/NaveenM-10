@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1KNLm_lLbFfwZpNIzsC8byzZMYZa9DMRo/view?usp=sharing"/>
+![Header Image](https://github.com/NaveenM-10/NaveenM-10/blob/main/Beige%20Modern%20Manager%20Marketing%20LinkedIn%20Banner.png)
 
 # 👋 Hi there, I'm M Naveen!
 
