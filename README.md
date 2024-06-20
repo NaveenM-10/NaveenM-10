@@ -1,4 +1,4 @@
-![Header Image](https://github.com/NaveenM-10/NaveenM-10/blob/main/Beige%20Modern%20Manager%20Marketing%20LinkedIn%20Banner.png)
+![Header Image](https://github.com/NaveenM-10/NaveenM-10/blob/main/Beige%20Modern%20Manager%20Marketing%20LinkedIn%20Banner%20(1).png)
 
 # 👋 Hi there, I'm M Naveen!
 
@@ -6,17 +6,13 @@ I'm a passionate Data Analyst with a robust set of skills in data analysis, visu
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, SQL
-- **Data Visualization Tools:** Power BI, Tableau, Looker Studio
-- **Spreadsheet Software:** Excel
-
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWrIcnr2YP1Zr22nl4P5fPoY49w25RNaUXg&s" alt="Python" width="50" height="50"/>
-  <img src="https://media.licdn.com/dms/image/D4D22AQE4wcu9PwUVVg/feedshare-shrink_2048_1536/0/1685593929649?e=2147483647&v=beta&t=jmUFYjkSI-DooI3xvNRsQWdAkP_0IvIaPzLpIHAf_ps" width="50" height="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HTfukt2fEv3cVQ1mvpov8K6Z_R40ZE-a3w&s" alt="Power BI" width="50" height="50"/>
-  <img src="https://mma.prnewswire.com/media/411941/TABLEAU_SOFTWARE_LOGOjpg_Logo.jpg?p=facebook" width="50" height="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTI_gSEnpYLGtklCOjgsDsCiJUO3VBkn9cQ&s" width="50" height="50"/>
-  <img src="https://assets-global.website-files.com/62db4aab7889390b30116fbb/6577ba52ca4c394d886459fe_excel.png" alt="Looker Studio" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWrIcnr2YP1Zr22nl4P5fPoY49w25RNaUXg&s" alt="Python" width="150" height="150"/>
+  <img src="https://media.licdn.com/dms/image/D4D22AQE4wcu9PwUVVg/feedshare-shrink_2048_1536/0/1685593929649?e=2147483647&v=beta&t=jmUFYjkSI-DooI3xvNRsQWdAkP_0IvIaPzLpIHAf_ps" width="150" height="150"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HTfukt2fEv3cVQ1mvpov8K6Z_R40ZE-a3w&s" alt="Power BI" width="150" height="150"/>
+  <img src="https://mma.prnewswire.com/media/411941/TABLEAU_SOFTWARE_LOGOjpg_Logo.jpg?p=facebook" width="150" height="150"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTI_gSEnpYLGtklCOjgsDsCiJUO3VBkn9cQ&s" width="150" height="150"/>
+  <img src="https://assets-global.website-files.com/62db4aab7889390b30116fbb/6577ba52ca4c394d886459fe_excel.png" alt="Looker Studio" width="150" height="150"/>
 </p>
 
 ## 📈 Projects
