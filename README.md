@@ -2,7 +2,9 @@
 
 # 👋 Hi there, I'm M Naveen!
 
-I'm a passionate Data Analyst with a robust set of skills in data analysis, visualization, and interpretation. I love turning data into actionable insights to help drive business decisions. Here are some of the tools and technologies I work with:
+I'm a passionate Data Analyst with a robust set of skills in data analysis, visualization, and interpretation. I love turning data into actionable insights to help drive business decisions. Excellent analytical and problem-solving skills, combined with a keen ability to communicate complex data insights clearly and effectively.
+
+![MasterHead](https://www.edubridgeindia.com/blog/wp-content/uploads/2022/01/data_analytics-scaled.jpg)
 
 ## 🛠️ Skills
 
@@ -42,6 +44,7 @@ Here are some of the projects I've worked on:
 - **Phone:** 9480037703
 
 ## 🌟 GitHub Stats
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaveenM-10&theme=github_dark">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenM-10&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenM-10&layout=compact&theme=radical)
+</p>
