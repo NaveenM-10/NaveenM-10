@@ -35,6 +35,10 @@ Here are some of the projects I've worked on:
 - **Solution:** Cleaned and analyzed data using Python, SQL, Power BI, and Tableau
 - **Outcome:** Minimized delays by 10%, saving $1M
 
+### [Project 3: Cement Manafacturing Automation](https://github.com/NaveenM-10/cement-manufacturing-automation)
+- **Client:** Leading Cement Manufacturer
+- **Business Problem:** Inspecting cement quality manully once per hour has some drawbacks. If an issue arises we cannot rectify it and must disgard the cement produced during that time. This leads to wasting raw materials increased machine downtime and loss of revenue.
+- **Solution:** Developing an automated real-time monitoring system. This system will leverage advanced sensors, machine learning, and data analytics to continuously monitor cement quality and machine performance.
 ## 📫 How to Reach Me
 
 - **Email:** naveenmanavalan10@gmail.com
